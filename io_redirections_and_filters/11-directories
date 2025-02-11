@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d ! -name "." ! -name ".." °| wc -1
+find . -type d ! -name "." ! -name ".." | wc -1

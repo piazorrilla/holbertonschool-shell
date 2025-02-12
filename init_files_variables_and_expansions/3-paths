@@ -1,2 +1,2 @@
-#!/bin/bash 
-echo "$PATH" | tr ":" "\n" | grep -c Â^/Â 
+#!/bin/bash
+echo "$PATH" | tr ":" "\n" | grep -c ï¿½^/ï¿½
